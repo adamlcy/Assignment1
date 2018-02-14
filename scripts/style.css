@@ -1,0 +1,28 @@
+
+
+
+body {
+	background-color: DarkSlateGrey;
+	margin-top:50px;
+	color:white;
+}
+
+p{
+	font-size:small;
+}
+
+div{
+	margin:auto;
+	width:40%;
+}
+
+input ,button{
+	border-bottom-color:black;
+	background:black;
+	color:white;
+}
+img{
+	height:300;
+	width:500; 
+}
+

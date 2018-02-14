@@ -1,0 +1,30 @@
+
+
+
+The game is straightforward.
+
+The player will grab items from the surroundings and explore the area.
+(The phrases in the round brackets are the command following the explanation of what it does.)
+
+There are two different endings, but both will go through some same steps:
+
+First, after wake up from the bedroom, 
+	grab the living room key on the desk (look around) and take the note from the closet (open closet).
+Then go to the hallway (go outside).
+Next check the shoe cabinate (check shoe cabinate) to grab another note. 
+Then go the the living room (go living room) and grab the reb book from the sofa (sit on the sofa).
+	You can check the fireplace (check fireplace) to get a match, or go to the kitchen to check around to get matches.
+Next, go outside (go backyard) and grab the last note (check tree).
+
+Then you can burn the book (burn book) or the notes (burn notes) depending on which ending you are going for.
+
+(Good Ending)
+If you burn the book,
+	you will get the book ashes, then go to the living room (go inside) and then to the hallway (go hallway),
+		and turn into the bathroom (go bathroom). Last, dump the book ashes here (dump the book ashes),
+		you will see the good ending.
+		
+(Bad Ending)
+If you burn the notes,
+	you will get the notes ashes, stay in the backyard and dump the notes ashes right here (dump the notes ashes).
+	The game will restart.

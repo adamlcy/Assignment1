@@ -1,0 +1,31 @@
+
+<! DOCTYPE HTML>
+
+<html>
+
+	<head>
+		
+		<link rel="stylesheet" href="scripts/style.css">
+		<script src="scripts/script.js"></script>
+		<!--sound /-->
+		<title>Assignment 1: Advanture Game</title>
+		
+	</head>
+	
+	<body onload="render()">
+			<div>
+				<h2 id="room_name"></h2>
+				<img id="room_img"/>
+				<br/>
+				<p id="room_info"></p>
+				<p id="item_info"></p>
+				<p id="command_info"></p>
+				<input id="input"/>
+				<button id="enter" onclick="playGame()">Enter</button>
+				<button id="save" onclick="saveGame()">Save</button>
+				<button id="load" onclick="loadGame()">Load</button>
+				<p id="inventory"></p>
+			</div>
+	</body>
+
+</html>
